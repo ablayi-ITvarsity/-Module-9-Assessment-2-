@@ -1,11 +1,12 @@
 body{
     font-family: "Realway", sans-serif;
+    border: #ec1111;
 }
 
 #local{
     width: 100%;
-    background-color: #1e90ff;
-    padding: 15px 0;
+    background-color: #060607;
+    padding: 20px 0;
     margin: 0;
 
     font-family: "Raleway", sans-serif;
@@ -20,12 +21,12 @@ body{
 }
 
 #cities td{
-    border: 1px solid #dedede;
+    border: 1px solid #57f50d;
     padding: 8px;
 }
 
 #cities tr:nth-child(even){
-    background-color: #f2f2f2;
+    background-color: #d7fc07;
 }
 
 .col1{
